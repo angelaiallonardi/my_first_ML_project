@@ -8,7 +8,7 @@ What's included in the analysis:
 - feature engineering
 
 IN PROGRESS:
-- model trainining
+- model training
 - performance analysis
 - model selection
 
